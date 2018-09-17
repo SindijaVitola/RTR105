@@ -4,7 +4,6 @@
 
 **1. uname**:
  > *print system information*
-
 **2. man**:
  > *an interface to the on-line reference manuals*
 
