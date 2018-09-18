@@ -2,21 +2,22 @@
 ## Datormācības kursa elektroniskā klade
 
 
-**1. uname**:
- > *print system information*
+**1. ctrl+alt+F1... F7** - *pieslēguma vietas (F7 ir standarta vieta)*:
+   **ctrl+alt+t** - *termināļa izsaukšana*
+   **ctrl+l** - *ekrāna notīrīšana*
  
 **2. man**:
  > *rāda konkrēto komandu nosaukumu definīcijas*
 
-**3. -a**:
- > *
-
+**3. hisory**:
+ > *komandu vēsture*
+ 
 **4. echo $0**:
  > *shell valoda*
 
-**5. sh**:
- > *
-
+**5. rwx rwx rwx** - read write execute:
+ > *attēlo, ko var darīt ar noteikto mapi vai failu saimnieks, grupa un visa pārējā pasaule*
+ 
 **6. whoami**:
  > *nosaka, kas es esmu*
 
@@ -24,13 +25,15 @@
  > *nosaka, kurš ir pievienojies/ darbojas*
 
 **8. pwd**:
- > *nosaka pašreizējo atrašanās vietu*
+ > *nosaka pašreizējo atrašanās vietu jeb lokācija failu sistēmā*
 
 **9. ls**:
  > *saraksts*
  
 **10. ls -l**:
  > *detalizētāks saraksts*
+ > *ja pirmais ir **d**, tad tā ir mape*
+ > *ja pirmais ir **-**, tad tas ir fails*
   
 **11. ls -la**:
  > *detalizēts apraksts visiem objektiem*
@@ -53,18 +56,20 @@
  
 **18. echo**:
 
-**19. cat, more**:
- > *ļauj noskaidrot, kas pieejams noteiktā failā*
+**Darbības, kuras ļauj noskaidrot, kas pieejams noteiktā failā**:
+```
+19.cat
+20.more
+21.less
+```
  
-**20. nano**:
+**22. nano**:
  > *teksta redaktors (var mainīt faila nosaukumu un to, kas tajā atradīsies)*
  
-**21. chmod**:
+**23. chmod**:
 
-**22. cp**:
+**24. cp**:
  > *failu kopēšana*
  
-**23. mv**:
+**25. mv**:
  > *failu pārcelšana*
- 
-**24. 
