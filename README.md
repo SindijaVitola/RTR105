@@ -3,7 +3,9 @@
 
 
 **1. ctrl+alt+F1... F7** - *pieslēguma vietas (F7 ir standarta vieta)*:
+
    **ctrl+alt+t** - *termināļa izsaukšana*
+   
    **ctrl+l** - *ekrāna notīrīšana*
  
 **2. man**:
@@ -32,7 +34,9 @@
  
 **10. ls -l**:
  > *detalizētāks saraksts*
+ 
  > *ja pirmais ir **d**, tad tā ir mape*
+ 
  > *ja pirmais ir **-**, tad tas ir fails*
   
 **11. ls -la**:
@@ -40,36 +44,37 @@
    
 **Metodes, lai pārvietotos uz sākumu**:
 ```
-12. cd/home/user
-13. cd
-14. cd ~
+cd/home/user
+cd
+cd ~
 ```
-**15. mkdir**:
+**12. mkdir**:
  > *jaunas mapes izveidošana*
  
-**16. rmdir**:
+**13. rmdir**:
  > *mapes izdzēšana (tikai, ja tajā nekas neatrodas)*
  
-**17. rm**:
+**14. rm**:
  > *izdzēš vēlamo, piem.,* rm fails*.txt *nodzēsīs visus failus, kuriem pirmie burti - fails*
+ 
  > rm -r *izdzēš mapi ar visu, kas tajā atrodams*
  
-**18. echo**:
+**15. echo**:
 
 **Darbības, kuras ļauj noskaidrot, kas pieejams noteiktā failā**:
 ```
-19.cat
-20.more
-21.less
+cat
+more
+less
 ```
  
-**22. nano**:
+**16. nano**:
  > *teksta redaktors (var mainīt faila nosaukumu un to, kas tajā atradīsies)*
  
-**23. chmod**:
+**17. chmod**:
 
-**24. cp**:
+**18. cp**:
  > *failu kopēšana*
  
-**25. mv**:
+**19. mv**:
  > *failu pārcelšana*
