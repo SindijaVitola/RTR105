@@ -60,6 +60,7 @@ cd ~
  > rm -r *izdzēš mapi ar visu, kas tajā atrodams*
  
 **15. echo**:
+ > *komanda teksta attēlošanai*
 
 **Darbības, kuras ļauj noskaidrot, kas pieejams noteiktā failā**:
 ```
@@ -72,9 +73,27 @@ less
  > *teksta redaktors (var mainīt faila nosaukumu un to, kas tajā atradīsies)*
  
 **17. chmod**:
+ > *maina faila piekļuves iespējas - lasīšana, rakstīšana, izpildīšana*
 
 **18. cp**:
  > *failu kopēšana*
  
 **19. mv**:
  > *failu pārcelšana*
+
+**20. nano mans_skripts.sh**:
+ > *izveido skriptu*
+
+**21. PATH**:
+ > *saīsināts ceļš līdz noteiktajai darbībai*
+ > *izmanto ar echo $PATH
+ > *PATH=$PATH:/~/ ...
+
+**22. cat bin/ls**:
+ > *instrukcijas*
+
+**23. git clone**:
+ > *izmanto, lai nolādētu vajadzīgo vietni*
+
+**24. cd**:
+ > *iekļūst noteiktajā mapē*
