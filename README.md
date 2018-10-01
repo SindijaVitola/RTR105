@@ -71,6 +71,7 @@ less
  
 **16. nano**:
  > *teksta redaktors (var mainīt faila nosaukumu un to, kas tajā atradīsies)*
+ > *skriptu izveidošana*
  
 **17. chmod**:
  > *maina faila piekļuves iespējas - lasīšana, rakstīšana, izpildīšana*
@@ -97,3 +98,17 @@ less
 
 **24. cd**:
  > *iekļūst noteiktajā mapē*
+
+# Python komandu saraksts
+
+**1. vars()**:
+ > *pieejamo objektu saraksts*
+
+**2. doc**:
+ > *kompaktāks saraksts*
+ 
+**3. print**:
+ > *funkcija teksta attēlošanai uz ekrāna
+ > *integer - skaitlis, float - reāls skaitlis (ar komatu), str - burts
+ 
+# idle & komandu saraksts
