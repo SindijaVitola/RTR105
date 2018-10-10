@@ -109,6 +109,19 @@ less
  
 **3. print**:
  > *funkcija teksta attēlošanai uz ekrāna
- > *integer - skaitlis, float - reāls skaitlis (ar komatu), str - burts
  
 # idle & komandu saraksts
+
+**1. type:**
+ > *ar šo komandu uzzina kāds ir datu tips8*
+ > *integer - skaitlis, float - reāls skaitlis (ar komatu), str - burts
+ 
+**2. input:**
+ > *attēlos ai tā noteikto tekstu
+ > *bet lai type būtu str, jālieto nevis input, bet raw_input
+ 
+**3. 'divas zvaigznītes':**
+ > *pakāpe*
+ 
+**4. %:**
+ > *atlikums*
