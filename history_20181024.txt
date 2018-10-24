@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  rm rf RTR105
+    4  git clone https://github.com/SindijaVitola/RTR105
+    5  idle &
+    6  ls -l
+    7  cd RTR105
+    8  ls -l
+    9  history > history_20181024.txt
