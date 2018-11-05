@@ -1,0 +1,4 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano tests.py
+    4  history > history_20181105.txt
