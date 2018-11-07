@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano mbox.txt
+    4  mv mbox.txt ~/RTR105/mbox.txt
+    5  ls -l
+    6  cd RTR105
+    7  ls -l
+    8  nano mbox.txt
+    9  history > history_20181107.txt
