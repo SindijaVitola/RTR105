@@ -11,7 +11,7 @@
 **2. man**:
  > *rāda konkrēto komandu nosaukumu definīcijas*
 
-**3. hisory**:
+**3. history**:
  > *komandu vēsture*
  
 **4. echo $0**:
@@ -99,29 +99,43 @@ less
 **24. cd**:
  > *iekļūst noteiktajā mapē*
 
-# Python komandu saraksts
+# Python komandu saraksts (python, ipython, idle)
 
 **1. vars()**:
  > *pieejamo objektu saraksts*
 
 **2. doc**:
  > *kompaktāks saraksts*
+ > *piemēram, __builtins__.__doc__ ,kur 'builtins' norāda attiecīgo failu un 'doc' parāda tajā atrodamās lietas/failus*
  
 **3. print**:
  > *funkcija teksta attēlošanai uz ekrāna
- 
-# idle & komandu saraksts
+ > *piemēram, print("Hello World") ,ko dators attiecīgi attēlos kā Hello World
 
-**1. type:**
+**4. type:**
  > *ar šo komandu uzzina kāds ir datu tips8*
  > *integer - skaitlis, float - reāls skaitlis (ar komatu), str - burts
  
-**2. input:**
+**5. input:**
  > *attēlos ai tā noteikto tekstu
  > *bet lai type būtu str, jālieto nevis input, bet raw_input
  
-**3. 'divas zvaigznītes':**
- > *pakāpe*
- 
-**4. %:**
- > *atlikums*
+**6. Matemātiskās zīmes:**
+```
++ saskaitīšana
+- atņemšana
+* reizināšana
+/ dalīšana
+** kāpināšana
+% atlikums
+```
+
+**7. Salīdzināšana:**
+```
+<  mazāks par
+<= mazāks vai vienāds
+== vienāds ar
+>= lielāks vai vienāds
+>  lielāks par
+!= nevienāds ar
+```
